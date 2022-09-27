@@ -5,7 +5,7 @@
 ## Devre Şeması
 ![](https://i.hizliresim.com/rr4tz0i.png)
 
-##Kurulum
+## Kurulum
 1. mikrodenetleyici kullanımı destekleyen bir IDE yükleyin 
  -[Thonny](https://thonny.org/)
 2. Esp8266 Karta [micropython](https://micropython.org/download/esp8266/) .bin dosyasını yazdırın.

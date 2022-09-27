@@ -13,3 +13,8 @@
 
 ![](https://github.com/nerawn/Automatic-Door-Opener/blob/main/giphy.gif)
 
+
+## Uygulama
+STL Klasörü içersindeki dosyaları 3D yazıcı ile üretebilirsiniz. İçerikte 2 Röle kartı için tasarlanmış fakat tekli röle kartı için de uygun.
+
+![](https://github.com/nerawn/Automatic-Door-Opener/blob/main/project.jpg)

@@ -16,5 +16,6 @@
 
 ## Uygulama
 STL Klasörü içersindeki dosyaları 3D yazıcı ile üretebilirsiniz. İçerikte 2 Röle kartı için tasarlanmış fakat tekli röle kartı için de uygun.
+>Tasarım,sadece Esp8266 cp2102 modeli için uygundur.
 
 ![](https://github.com/nerawn/Automatic-Door-Opener/blob/main/project.jpg)

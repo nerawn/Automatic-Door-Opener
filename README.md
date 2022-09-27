@@ -1,7 +1,8 @@
 
 # Otomatik Kapı Açma Projesi
 > Bu Proje herhangi bir elektronik mekanizmayla çalışan kapının röle tetiklemesi ile kolayca açılabilmesi için yapılmıştır.
-
+### Çalışma Prensibi
+Sistem kapının çevresine kurulur, yaklaşan kullanıcı wifi alanının içerisine girer ve telefonu otomatik bağlanır. Bağlanma işlemi ile bilikte röle tetiklenir ve kapı kilidi açılır.
 ## Devre Şeması
 ![](https://i.hizliresim.com/rr4tz0i.png)
 

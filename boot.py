@@ -3,7 +3,8 @@ from machine import Pin
 from time import sleep
 relay = Pin(2, Pin.OUT)
 wifi = network.WLAN(network.AP_IF)
-wifi.config(essid='ESP',authmode=network.AUTH_WPA_WPA2_PSK, password='password')
+wifi.active(True)
+wifi.config(essid='ESP', password='nera123456')
 print(wifi.ifconfig())
 
 
@@ -18,7 +19,7 @@ def connect():
         relay.on()
         sleep(5)
         wifi.active(False)
-        sleep(40)
+        sleep(30)
         break
 
     else:
